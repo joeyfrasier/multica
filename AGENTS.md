@@ -6,6 +6,11 @@ This file provides guidance to AI agents when working with code in this reposito
 > All authoritative architecture, coding rules, commands, and conventions
 > live in **CLAUDE.md** at the project root. Read that file first.
 
+## Local Deployment (Office Mac)
+
+See **[LOCAL_OPS.md](LOCAL_OPS.md)** for the self-hosted Docker setup on this machine —
+Docker Desktop dependency, how to restart the stack, and why `Multica.app` is not the server.
+
 ## Quick Reference
 
 ### Architecture
